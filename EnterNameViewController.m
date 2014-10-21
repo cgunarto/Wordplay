@@ -23,7 +23,7 @@
 
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     EnterAdjectiveViewController *enterAdjectiveVC = segue.destinationViewController;
-    enterAdjectiveVC = [sender currentTitle]
+    enterAdjectiveVC.name = self.nameTextField.text;
     
 }
 

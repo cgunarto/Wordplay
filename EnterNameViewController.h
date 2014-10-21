@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface EnterNameViewController : UIViewController
-@property (strong, nonatomic) NSString *name;
+
 
 @end
