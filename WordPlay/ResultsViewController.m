@@ -18,14 +18,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    self.resultsTextView.text = [NSString stringWithFormat:@"Hi my name is %@, I am really %@",self.name, self.adjective];
 }
 
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
-
-    EnterAdjectiveViewController *enterAdjectiveVC = segue.destinationViewController;
-    enterAdjectiveVC.
-    
-}
 
 @end

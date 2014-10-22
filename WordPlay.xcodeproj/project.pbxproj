@@ -90,20 +90,20 @@
 		4FB5ECA519F71B4F00E0AF7C /* WordPlay */ = {
 			isa = PBXGroup;
 			children = (
-				4FB5ECCF19F71CE000E0AF7C /* EnterAdjectiveViewController.h */,
-				4FB5ECD019F71CE000E0AF7C /* EnterAdjectiveViewController.m */,
-				4FB5ECCC19F71C2A00E0AF7C /* EnterNameViewController.h */,
-				4FB5ECCD19F71C2A00E0AF7C /* EnterNameViewController.m */,
-				4FB5ECAA19F71B4F00E0AF7C /* AppDelegate.h */,
-				4FB5ECAB19F71B4F00E0AF7C /* AppDelegate.m */,
 				4FB5ECAD19F71B4F00E0AF7C /* ViewController.h */,
 				4FB5ECAE19F71B4F00E0AF7C /* ViewController.m */,
+				4FB5ECCC19F71C2A00E0AF7C /* EnterNameViewController.h */,
+				4FB5ECCD19F71C2A00E0AF7C /* EnterNameViewController.m */,
+				4FB5ECCF19F71CE000E0AF7C /* EnterAdjectiveViewController.h */,
+				4FB5ECD019F71CE000E0AF7C /* EnterAdjectiveViewController.m */,
+				4FB5ECD219F71D7900E0AF7C /* ResultsViewController.h */,
+				4FB5ECD319F71D7900E0AF7C /* ResultsViewController.m */,
+				4FB5ECAA19F71B4F00E0AF7C /* AppDelegate.h */,
+				4FB5ECAB19F71B4F00E0AF7C /* AppDelegate.m */,
 				4FB5ECB019F71B4F00E0AF7C /* Main.storyboard */,
 				4FB5ECB319F71B4F00E0AF7C /* Images.xcassets */,
 				4FB5ECB519F71B4F00E0AF7C /* LaunchScreen.xib */,
 				4FB5ECA619F71B4F00E0AF7C /* Supporting Files */,
-				4FB5ECD219F71D7900E0AF7C /* ResultsViewController.h */,
-				4FB5ECD319F71D7900E0AF7C /* ResultsViewController.m */,
 			);
 			path = WordPlay;
 			sourceTree = "<group>";
@@ -430,6 +430,7 @@
 				4FB5ECC819F71B4F00E0AF7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4FB5ECC919F71B4F00E0AF7C /* Build configuration list for PBXNativeTarget "WordPlayTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +439,7 @@
 				4FB5ECCB19F71B4F00E0AF7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
