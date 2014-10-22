@@ -27,4 +27,15 @@
     
 }
 
+- (BOOL)shouldPerformSegueWithIdentifier:(NSString *)identifier sender:(id)sender{
+    if([self.nameTextField.text length] == 0)
+    {
+        return NO;
+    }
+    else
+    {
+        return YES;
+    }
+}
+
 @end

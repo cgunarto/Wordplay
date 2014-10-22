@@ -17,6 +17,8 @@
 		4FB5ECCE19F71C2A00E0AF7C /* EnterNameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FB5ECCD19F71C2A00E0AF7C /* EnterNameViewController.m */; };
 		4FB5ECD119F71CE000E0AF7C /* EnterAdjectiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FB5ECD019F71CE000E0AF7C /* EnterAdjectiveViewController.m */; };
 		4FB5ECD419F71D7900E0AF7C /* ResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FB5ECD319F71D7900E0AF7C /* ResultsViewController.m */; };
+		FCDFD55F19F734F5001840D2 /* EnterNounViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCDFD55E19F734F5001840D2 /* EnterNounViewController.m */; };
+		FCDFD56219F73509001840D2 /* EnterAdverbViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCDFD56119F73509001840D2 /* EnterAdverbViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,10 @@
 		4FB5ECD019F71CE000E0AF7C /* EnterAdjectiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnterAdjectiveViewController.m; sourceTree = "<group>"; };
 		4FB5ECD219F71D7900E0AF7C /* ResultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultsViewController.h; sourceTree = "<group>"; };
 		4FB5ECD319F71D7900E0AF7C /* ResultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultsViewController.m; sourceTree = "<group>"; };
+		FCDFD55D19F734F5001840D2 /* EnterNounViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnterNounViewController.h; sourceTree = "<group>"; };
+		FCDFD55E19F734F5001840D2 /* EnterNounViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnterNounViewController.m; sourceTree = "<group>"; };
+		FCDFD56019F73509001840D2 /* EnterAdverbViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnterAdverbViewController.h; sourceTree = "<group>"; };
+		FCDFD56119F73509001840D2 /* EnterAdverbViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnterAdverbViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,10 @@
 				4FB5ECCD19F71C2A00E0AF7C /* EnterNameViewController.m */,
 				4FB5ECCF19F71CE000E0AF7C /* EnterAdjectiveViewController.h */,
 				4FB5ECD019F71CE000E0AF7C /* EnterAdjectiveViewController.m */,
+				FCDFD55D19F734F5001840D2 /* EnterNounViewController.h */,
+				FCDFD55E19F734F5001840D2 /* EnterNounViewController.m */,
+				FCDFD56019F73509001840D2 /* EnterAdverbViewController.h */,
+				FCDFD56119F73509001840D2 /* EnterAdverbViewController.m */,
 				4FB5ECD219F71D7900E0AF7C /* ResultsViewController.h */,
 				4FB5ECD319F71D7900E0AF7C /* ResultsViewController.m */,
 				4FB5ECAA19F71B4F00E0AF7C /* AppDelegate.h */,
@@ -239,7 +249,9 @@
 				4FB5ECD119F71CE000E0AF7C /* EnterAdjectiveViewController.m in Sources */,
 				4FB5ECD419F71D7900E0AF7C /* ResultsViewController.m in Sources */,
 				4FB5ECCE19F71C2A00E0AF7C /* EnterNameViewController.m in Sources */,
+				FCDFD55F19F734F5001840D2 /* EnterNounViewController.m in Sources */,
 				4FB5ECA919F71B4F00E0AF7C /* main.m in Sources */,
+				FCDFD56219F73509001840D2 /* EnterAdverbViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
